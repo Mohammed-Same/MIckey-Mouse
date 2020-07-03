@@ -1,0 +1,317 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color:#cc5858;
+
+}
+
+
+.cr-1{
+	border:solid;
+	border-radius: 50%;
+	height: 450px	;
+	width: 40%;
+	background: black;
+	margin:-130px auto 50px 305px;
+	
+}
+.cr-2{
+	border:solid;
+	border-radius: 50%;
+	height: 200px	;
+	width: 20%;
+	background: black;
+	margin: 30px 45px 0px 180px;
+}
+.cr-3{
+	border:solid;
+	border-radius: 50%;
+	height: 200px	;
+	width: 20%;
+	background:black;
+	margin: -180px 10px 0px 730px;
+}
+.cr-4{
+	border:solid;
+	border-radius: 60%;
+	height: 250px	;
+	width: 100%;
+	background: pink;
+	margin:220px 0px 0px 0px;
+	padding: 100px;
+
+
+}
+.cr-5{
+	border:solid;
+	border-radius: 60%;
+	height: 290px	;
+	width: 40%;
+	border-color: transparent transparent transparent;
+
+	background: pink;
+	margin: -450px 0px 0px 220px;
+
+
+
+}
+.cr-6{
+	border:solid;
+	border-radius: 60%;
+	height: 290px	;
+	width: 30%;
+	background: pink;
+		border-color: transparent transparent transparent;	
+	margin: -280px 50px 0px 80px;
+	
+
+}
+.cr-7{
+  width: 320px; 
+  height: 80px;  
+  border: solid 5px #000;
+  border-color: transparent transparent black black;
+  border-radius: 0px 0px 90px 100px;
+  margin:-30px 30px 10px 10px;
+ }
+.cr-8{
+  width: 50px; 
+  height:60px;  
+  border: solid 5px #000;
+  border-color:  black black transparent transparent;
+  border-radius:20px 20px 20px 20px ;
+ transform: rotate(-80deg);  
+  margin:-15px 30px 10px -18px;
+
+
+}
+.cr-9{
+	 width: 50px; 
+  height:60px;  
+  border: solid 5px #000;
+  border-color:  black black transparent transparent;
+  border-radius:20px 20px 20px 20px ;
+ transform: rotate(-20deg);  
+  margin:-65px 30px 10px 280px;
+
+}
+ 
+.cr-10{
+	width: 300px;
+	height: 400px;
+	border: solid 5px #000;
+	border-color: transparent transparent black;
+	border-radius: 0px 0px 150px 150px;
+	margin:-340px 0px 10px 0px;
+
+
+
+}
+.cr-11{
+	width: 100px;
+	height: 200px;
+	border: solid 5px #000;
+	border-color: transparent transparent black;
+	border-radius: 0px 0px 150px 150px;
+	transform: rotate(-180deg);
+	margin: 360px 0px 0px 70px;
+	background-color: ;
+
+
+}
+.cr-12{
+	width: 90px;
+	height: 200px;
+	border: solid 5px #000;
+	border-color: transparent transparent black;
+	border-radius: 0px 0px 150px 150px;
+	transform: rotate(-180deg);
+	margin: -200px 0px 0px 138px;
+}
+.cr-13{
+	width: 120px;
+	height: 80px;
+	background-color: black;
+	margin: -70px 0px 0px 200px ;
+	border-radius: 50%;
+}
+.cr-14{
+width: 200px;
+	height: 200px;
+	border: solid 5px #000;
+	border-color: transparent transparent black;
+	border-radius: 0px 0px 150px 150px;
+	transform: rotate(-180deg);
+	margin: -100px 0px 0px 160px;
+}
+.cr-15{
+width: 60px;
+	height: 120px;
+	border: solid 5px #000;
+	border-color: black black transparent;
+	border-radius: 100px 100px 100px ;
+	margin: -298px 0px 0px 180px;
+	transform: rotate(-18deg);
+}
+.cr-16{
+width: 60px;
+	height: 120px;
+	border: solid 5px #000;
+	border-color: black black transparent;
+	border-radius: 100px 100px 100px ;
+	margin: -120px 0px 0px 280px;
+	transform: rotate(18deg);
+}
+.cr-17{
+	width: 50px;
+	height: 60px;
+	background-color: black;
+	margin: 45px 0px 0px 0px;
+	border-radius: 100px 100px 0px 0px;
+}
+.cr-18{
+		width: 50px;
+	height: 60px;
+	background-color: black;
+	margin: 45px 0px 0px 0px;
+	border-radius: 100px 100px 0px 0px;
+}
+@media all and (max-width:900px){
+  .cr-1{
+    margin:-120px auto auto 260px; 
+  }
+}
+
+
+@media all and (max-width: 500px){
+	
+.cr-1{
+	height: 300px	;
+	width: 70%;
+	margin:-50px auto auto 60px; ;
+}
+.cr-2{
+	height: 100px;
+	width: 30%;
+	margin: 100px auto auto 30px;
+}
+.cr-3{
+	height: 100px;
+	width: 30%;
+	margin: -100px auto auto 220px;
+}
+.cr-4 {
+	height: 70px;
+	width: 100%;
+	margin:150px 0px 0px 0px;
+}
+.cr-5{
+	height: 150px;
+	width: 40%;
+	margin: -330px 20px 0px 30px; 
+}
+.cr-6{
+	height: 150px;
+	width: 40%;
+	margin: -150px 50px 0px 100px;
+}
+.cr-7{
+  width: 180px; 
+  height: 50px;  
+  margin:-30px 30px 10px -70px;
+}
+.cr-8{
+  width: 30px; 
+  height:30px;  
+}
+.cr-9{
+	width: 30px; 
+  	height:30px;  
+  	margin:-35px 30px 10px 160px;
+}
+.cr-10{
+	width: 200px;
+	height: 300px;
+	margin:-260px 0px 10px -15px;
+}
+.cr-11{
+	width: 70px;
+	height: 100px;
+	margin: 270px 0px 0px 80px;
+
+}
+.cr-12{
+	width: 60px;
+	height: 100px;
+	margin: -100px 0px 0px 45px;
+	}
+	.cr-13{
+	width: 60px;
+	height: 50px;
+	margin: -20px 0px 0px 90px ;
+}
+.cr-14{
+	width: 130px;
+	height: 100px;
+	margin: -60px 0px 0px 55px;
+}
+.cr-15{
+width: 50px;
+	height: 80px;
+	margin: -160px 0px 0px 60px;
+}
+.cr-16{
+	width: 50px;
+	height: 80px;
+	margin: -80px 0px 0px 130px;
+}
+.cr-17{
+	width: 40px;
+	height: 40px;
+	margin: 25px 0px 0px 0px;
+}
+.cr-18{
+	width: 40px;
+	height: 40px;
+	margin: 25px 0px 0px 0px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
